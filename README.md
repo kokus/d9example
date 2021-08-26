@@ -1,5 +1,7 @@
 # Composer template for Drupal projects
 
+# CSTVM2 Practice migration from d7 to d9
+
 [![CI](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml/badge.svg?branch=9.x)](https://github.com/drupal-composer/drupal-project/actions/workflows/ci.yml)
 
 This project template provides a starter kit for managing your site
